@@ -1,5 +1,4 @@
 # PanaderiaLee
-Bakery management system
 El software es un sistema de administración de inventario de la fábrica de panes. El software almacenará información relevante 
 para la fábrica tales como los proveedores, los productos de materia prima, los productos finales para la venta, además como
 productos de empaquetado, etc. que necesitan.
